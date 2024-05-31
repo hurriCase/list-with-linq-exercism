@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmitr\\Exercism\\csharp\\tracks-on-tracks-on-tracks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F8C0CB-04A5-4EB0-B759-C608D4ED8E3E}|TracksOnTracksOnTracks.csproj|c:\\users\\dmitr\\exercism\\csharp\\tracks-on-tracks-on-tracks\\tracksontracksontracks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F8C0CB-04A5-4EB0-B759-C608D4ED8E3E}|TracksOnTracksOnTracks.csproj|solutionrelative:tracksontracksontracks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F8C0CB-04A5-4EB0-B759-C608D4ED8E3E}|TracksOnTracksOnTracks.csproj|c:\\users\\dmitr\\exercism\\csharp\\tracks-on-tracks-on-tracks\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{77F8C0CB-04A5-4EB0-B759-C608D4ED8E3E}|TracksOnTracksOnTracks.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TracksOnTracksOnTracks.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\tracks-on-tracks-on-tracks\\TracksOnTracksOnTracks.cs",
+              "RelativeDocumentMoniker": "TracksOnTracksOnTracks.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\tracks-on-tracks-on-tracks\\TracksOnTracksOnTracks.cs",
+              "RelativeToolTip": "TracksOnTracksOnTracks.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:31:41.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\tracks-on-tracks-on-tracks\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\tracks-on-tracks-on-tracks\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAwIgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-20T12:31:40.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
